@@ -102,4 +102,4 @@ def test_transfer_no_value():
 ## Join the TON Revolution 💎
 TON has the potential to revolutionize the blockchain world, and Rift is the perfect tool to help developers take advantage of its many benefits. Whether you're just starting out or already have experience with TON, Rift is the perfect way to streamline your development process and bring your ideas to life on TON. So why wait? Start building with Rift today and join the TON revolution! 🚀
 
-Get started now by exploring [Rift's repository](https://github.com/sky-ring/rift) and joining the [Skyring Channel](https://t.me/skyring_org) for the latest updates. We're excited to announce that step-by-step guides will be available soon. Stay tuned! ⏳
+Get started now by exploring [Rift's repository](https://github.com/sky-ring/rift) and joining the [Skyring Channel](https://t.me/skyring_org) for the latest updates. We're excited to announce that we're working on step-by-step guides that will be available soon. Checkout the first one, [***Step-by-Step with Rift: Simple Storage Contract Tutorial***](https://docs.skyring.io/rift/step-by-step-guides/simple-storage-contract). Stay tuned! ⏳
